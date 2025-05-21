@@ -87,10 +87,13 @@ a.info-box{
     float: left;
 }
 .info-box h3{
+
+}
+.info-box p{
     padding: 0;
     margin-bottom: 0;
     width: 90%;
-    color: 131313;
+    color: #131313;
 }
 .info-box img .right{
     float: right;
