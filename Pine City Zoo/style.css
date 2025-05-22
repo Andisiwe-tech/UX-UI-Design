@@ -73,7 +73,11 @@ padding-top: 12px;
 }
 a.info-box{
     text-decoration: none;
+<<<<<<< HEAD
     background: rgb(255, 255, 55, .8);
+=======
+    background: rgba(255, 255, 55, .8);
+>>>>>>> 1a984ee2d069519e01e55b97962f6e888219e79d
     width: 90%;
     height: 90px;
     display: block;
@@ -86,6 +90,7 @@ a.info-box{
     margin: 10px;
     float: left;
 }
+<<<<<<< HEAD
 .info-box h3{
 padding-top: 0;
 margin-bottom: 0;
@@ -93,12 +98,19 @@ width: 90%;
 color: #527285;
 }
 .info-box p{
+=======
+.info-box h3 {
+>>>>>>> 1a984ee2d069519e01e55b97962f6e888219e79d
     padding: 0;
     margin-bottom: 0;
     width: 90%;
     color: #131313;
 }
+<<<<<<< HEAD
 .info-box img.right{
+=======
+.info-box img.right {
+>>>>>>> 1a984ee2d069519e01e55b97962f6e888219e79d
     float: right;
     margin-top: 25px;
     height: 40px;
