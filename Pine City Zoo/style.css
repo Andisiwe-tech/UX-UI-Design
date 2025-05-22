@@ -60,7 +60,7 @@ padding-top: 12px;
     color: white;
     text-align: center;
     text-decoration: none;
-    padding-top: none;
+    padding-top: 0;
 }
 #main{
     margin-top: 119px;
@@ -73,7 +73,7 @@ padding-top: 12px;
 }
 a.info-box{
     text-decoration: none;
-    background: rgb(255, 255, 55, .8)
+    background: rgb(255, 255, 55, .8);
     width: 90%;
     height: 90px;
     display: block;
@@ -87,7 +87,10 @@ a.info-box{
     float: left;
 }
 .info-box h3{
-
+padding-top: 0;
+margin-bottom: 0;
+width: 90%;
+color: #527285;
 }
 .info-box p{
     padding: 0;
@@ -95,7 +98,7 @@ a.info-box{
     width: 90%;
     color: #131313;
 }
-.info-box img .right{
+.info-box img.right{
     float: right;
     margin-top: 25px;
     height: 40px;
